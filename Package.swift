@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZiraatAppAssistant",
-            url: "https://github.com/bkabadayi/ZiraatAppAssistant/releases/download/1.0.6/ZiraatAppAssistant.xcframework.zip",
-            checksum: "05ee38d67ff3034a0899d66e93a50e478a580f9425deb676ae6da091c5c12032"
+            url: "https://github.com/bkabadayi/ZiraatAppAssistant/releases/download/1.0.7/ZiraatAppAssistant.xcframework.zip",
+            checksum: "894187360b1c8167d2a1e3bc8fdb1e9bf12ea06548bf60107216876b9349a3e2"
         ),
     ]
 )
